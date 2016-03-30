@@ -10,8 +10,18 @@ package guess_county;
  * @author Adrien
  */
 public class SportNational {
+
     private int idSport;
     private String nom;
+
+    public SportNational() {
+
+    }
+
+    public SportNational(int initialId, String initialName) {
+        this.idSport = initialId;
+        this.nom = initialName;
+    }
 
     /**
      * @return the idSport

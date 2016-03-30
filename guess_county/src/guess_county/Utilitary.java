@@ -28,6 +28,7 @@ public class Utilitary {
             final DocumentBuilder documentBuilder = documentFactory.newDocumentBuilder();
             this.file = new File(filePath);
             this.document = documentBuilder.parse(this.file);
+            this.document.getDocumentElement().normalize();
         }
         catch(IOException | ParserConfigurationException | SAXException e){
             System.out.println("Error while initializing Utilitary class");
