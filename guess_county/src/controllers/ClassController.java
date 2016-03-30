@@ -12,15 +12,15 @@ import org.w3c.dom.Document;
  *
  * @author Adrien
  */
-public class SportNationalController {
+public class ClassController {
 
     private static final String FILE_PATH = "";
     private final Utilitary documentHandler;
     private final Document doc;
 
-    public SportNationalController() {
+    public ClassController() {
         this.documentHandler = new Utilitary(FILE_PATH);
         this.doc = documentHandler.getDocument();
     }
-
+    
 }
