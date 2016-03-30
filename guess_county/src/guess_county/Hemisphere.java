@@ -13,6 +13,15 @@ public class Hemisphere {
     private int id_hemisphere;
     private String nom;
 
+    public Hemisphere(int id_hemisphere, String nom) {
+        this.id_hemisphere = id_hemisphere;
+        this.nom = nom;
+    }
+
+    public Hemisphere() {
+    }
+
+    
     public int getId_hemisphere() {
         return id_hemisphere;
     }

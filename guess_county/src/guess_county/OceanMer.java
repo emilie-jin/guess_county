@@ -13,6 +13,15 @@ public class OceanMer {
     private int idOceanMer;
     private String nom;
 
+    public OceanMer(int idOceanMer, String nom) {
+        this.idOceanMer = idOceanMer;
+        this.nom = nom;
+    }
+
+    public OceanMer() {
+    }
+
+    
     /**
      * @return the idOceanMer
      */

@@ -13,6 +13,16 @@ public class Continent {
     private int idContinent;
     private String nom;
 
+    public Continent() {
+    }
+
+    public Continent(int idContinent, String nom) {
+        this.idContinent = idContinent;
+        this.nom = nom;
+    }
+
+    
+    
     /**
      * @return the idContinent
      */

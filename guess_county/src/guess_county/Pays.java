@@ -5,6 +5,9 @@
  */
 package guess_county;
 
+import org.w3c.dom.Document;
+import org.w3c.dom.NodeList;
+
 /**
  *
  * @author yuzhujin
@@ -19,6 +22,30 @@ public class Pays {
     private int nbFrontieres;
     private String continent;
     private String hemisphere;
+    /*
+    private static final String FILE_PATH="";
+    private Utilitary documentHandler;
+    private Document doc;
+    */
+    //private NodeList nodeList; 
+    
+    public Pays() {        
+    }
+
+    public Pays(int id_pays, String nom, double superficie, int nbHabitants, String monnaie, int nbLangages, int nbFrontieres, String continent, String hemisphere) {
+        this.id_pays = id_pays;
+        this.nom = nom;
+        this.superficie = superficie;
+        this.nbHabitants = nbHabitants;
+        this.monnaie = monnaie;
+        this.nbLangages = nbLangages;
+        this.nbFrontieres = nbFrontieres;
+        this.continent = continent;
+        this.hemisphere = hemisphere;
+    }
+    
+    
+    
 
     public int getId_pays() {
         return id_pays;

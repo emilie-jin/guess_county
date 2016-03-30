@@ -13,6 +13,16 @@ public class LangueOfficielle {
     private int idLangue;
     private String nom;
 
+    public LangueOfficielle() {
+    }
+
+    public LangueOfficielle(int idLangue, String nom) {
+        this.idLangue = idLangue;
+        this.nom = nom;
+    }
+
+    
+    
     /**
      * @return the idLangue
      */
