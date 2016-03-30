@@ -13,6 +13,14 @@ public class Politique {
     private int idPolitique;
     private String nom;
 
+    public Politique(int idPolitique, String nom) {
+        this.idPolitique = idPolitique;
+        this.nom = nom;
+    }
+
+    public Politique() {
+    }
+
     /**
      * @return the idPolitique
      */

@@ -10,8 +10,17 @@ package guess_county;
  * @author Adrien
  */
 public class Religion {
+    
     private int idReligion;
     private String nom;
+
+    public Religion(int idReligion, String nom) {
+        this.idReligion = idReligion;
+        this.nom = nom;
+    }
+
+    public Religion() {
+    }
 
     /**
      * @return the idReligion
@@ -40,5 +49,5 @@ public class Religion {
     public void setNom(String nom) {
         this.nom = nom;
     }
-    
+
 }
