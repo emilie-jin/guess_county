@@ -8,6 +8,7 @@ package modelsAndMain;
 import controllers.PaysController;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.Map;
 import score.Question;
 
@@ -19,7 +20,7 @@ public class Guess_country {
 
     public static Map<Pays, Integer> paysScore = new HashMap<>();
     public static Map<Question, Integer> questionScore = new HashMap<>();
-    public int currentQuestionDegree = 0;
+    public static int currentQuestionDegree = 0;
 
     /**
      * @param args the command line arguments
@@ -31,7 +32,7 @@ public class Guess_country {
         //Mise à 0 du score de réponse des questions
         loadQuestions();
         //Sélection d'une question parmi celles qui ont un score discriminant faible
-        
+        pickQuesion(currentQuestionDegree);
     }
 
     //Récupération du nom de tous les pays
@@ -58,6 +59,14 @@ public class Guess_country {
         questionScore.put(new Question("Religions", "Islam"), 0);
         questionScore.put(new Question("NumberOfBoundaries", "1"), 0);
         questionScore.put(new Question("PoliticalRegime", "Federal State"), 0);
+    }
+
+    private static void pickQuesion(int currentQuestionDegree) {
+        Map<Question, Integer> subQuestionMap = new HashMap<>();
+        Iterator iterator = questionScore.entrySet().iterator();
+        while (iterator.hasNext()) {
+            Map<Question, Integer> question = (Map<Question, Integer>) iterator.next();
+        }
     }
 
 }
