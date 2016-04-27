@@ -15,7 +15,7 @@ public class Question {
     private String sujet;
     private String question;
 
-    public Question(int degree, String subject, String parameter) {
+    public Question(String subject, String parameter) {
         setQuestionAttributes(sujet, parameter);
     }
 
