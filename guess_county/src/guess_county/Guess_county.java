@@ -29,7 +29,8 @@ public class Guess_county {
         PaysController pc = new PaysController();
         ArrayList<Pays> listPays = pc.getPaysListName();
         for (Pays pays: listPays) {
-           paysScore.put(pays, 0);
+            paysScore.put(pays, 0);
+            System.out.println(pays.getNom());
         }
         
         final String BEGINNING_OF_THE_QUESTION = "Est-ce que votre pays ";

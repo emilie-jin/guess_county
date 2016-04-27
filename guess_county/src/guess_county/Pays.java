@@ -5,9 +5,6 @@
  */
 package guess_county;
 
-import org.w3c.dom.Document;
-import org.w3c.dom.NodeList;
-
 /**
  *
  * @author yuzhujin

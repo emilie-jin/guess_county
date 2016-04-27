@@ -14,7 +14,7 @@ import org.w3c.dom.NodeList;
  */
 public abstract class ClassController {
 
-    private static final String FILE_PATH = "/Users/yuzhujin/Desktop/pays.xml";
+    private static final String FILE_PATH = "C:\\Users\\Adrien\\Documents\\Travail\\EPSI\\Cours\\IA\\guess_county\\test.xml";
     private final Utilitary documentHandler;
     private final Document doc;
 

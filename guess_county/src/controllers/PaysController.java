@@ -10,7 +10,6 @@ import org.w3c.dom.NodeList;
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 /**
  *
  * @author yuzhujin
@@ -26,21 +25,20 @@ public class PaysController extends ClassController {
 
         return listPays;
     }
-    
 
     public ArrayList getPaysListName() {
         ArrayList<Pays> listPaysResult = new ArrayList();
         NodeList listPays = this.getPaysList();
         for (int i = 0; i < listPays.getLength(); ++i) {
-            Pays newPays = new Pays();
             Element pays = (Element) listPays.item(i);
             NodeList namelist = pays.getElementsByTagName("name");
             for (int k = 0; k < namelist.getLength(); ++k) {
+                Pays newPays = new Pays();
                 Element name = (Element) namelist.item(k);
-                String nameText = name.getNodeValue();
+                String nameText = name.getTextContent();
                 newPays.setNom(nameText);
+                listPaysResult.add(newPays);
             }
-            listPaysResult.add(newPays);
         }
         return listPaysResult;
     }
