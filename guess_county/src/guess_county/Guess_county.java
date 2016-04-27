@@ -30,6 +30,7 @@ public class Guess_county {
         ArrayList<Pays> listPays = pc.getPaysListName();
         for (Pays pays: listPays) {
             paysScore.put(pays, 0);
+            System.out.println(pays.getId_pays());
             System.out.println(pays.getNom());
         }
         

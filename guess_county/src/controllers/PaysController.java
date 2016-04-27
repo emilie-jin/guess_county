@@ -16,6 +16,8 @@ import org.w3c.dom.NodeList;
  */
 public class PaysController extends ClassController {
 
+    private final int XML_PAYS_LOCATION = 0;
+
     public PaysController() {
         super();
     }
@@ -29,16 +31,21 @@ public class PaysController extends ClassController {
     public ArrayList getPaysListName() {
         ArrayList<Pays> listPaysResult = new ArrayList();
         NodeList listPays = this.getPaysList();
-        for (int i = 0; i < listPays.getLength(); ++i) {
-            Element pays = (Element) listPays.item(i);
-            NodeList namelist = pays.getElementsByTagName("name");
-            for (int k = 0; k < namelist.getLength(); ++k) {
-                Pays newPays = new Pays();
-                Element name = (Element) namelist.item(k);
-                String nameText = name.getTextContent();
-                newPays.setNom(nameText);
-                listPaysResult.add(newPays);
-            }
+//        for (int i = 0; i < listPays.getLength(); ++i) {
+        Element pays = (Element) listPays.item(XML_PAYS_LOCATION);
+        NodeList namelist = pays.getElementsByTagName("name");
+        NodeList idlist = pays.getElementsByTagName("id");
+
+        for (int k = 0; k < namelist.getLength(); ++k) {
+            Pays newPays = new Pays();
+            Element name = (Element) namelist.item(k);
+            String nameText = name.getTextContent();
+            Element id = (Element) idlist.item(k);
+            int payId = Integer.parseInt(id.getTextContent());
+            newPays.setNom(nameText);
+            newPays.setId_pays(payId);
+            listPaysResult.add(newPays);
+//            }·
         }
         return listPaysResult;
     }

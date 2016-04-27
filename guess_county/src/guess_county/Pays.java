@@ -40,7 +40,10 @@ public class Pays {
         this.continent = continent;
         this.hemisphere = hemisphere;
     }
-    
+
+    public void setId_pays(int id_pays) {
+        this.id_pays = id_pays;
+    }
     
     
 
