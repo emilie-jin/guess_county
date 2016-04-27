@@ -1,7 +1,11 @@
 <?xml version="1.0"?>
 <body>
 <pays>
+	<id>1</id>
 	<name>France</name>
+</pays>
+<pays>
+	<id>2</id>
 	<name>Chine</name>
 </pays>
 </body>

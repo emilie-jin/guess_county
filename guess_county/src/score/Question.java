@@ -14,8 +14,11 @@ public class Question {
     private int questionDegre;
     private String sujet;
     private String question;
+    private String parameter;
 
     public Question(String subject, String parameter) {
+        this.sujet = subject;
+        this.parameter = parameter;
         setQuestionAttributes(sujet, parameter);
     }
 
@@ -114,5 +117,19 @@ public class Question {
      */
     public void setQuestion(String question) {
         this.question = question;
+    }
+
+    /**
+     * @return the parameter
+     */
+    public String getParameter() {
+        return parameter;
+    }
+
+    /**
+     * @param parameter the parameter to set
+     */
+    public void setParameter(String parameter) {
+        this.parameter = parameter;
     }
 }
