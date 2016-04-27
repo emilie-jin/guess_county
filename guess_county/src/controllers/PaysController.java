@@ -28,7 +28,7 @@ public class PaysController extends ClassController {
         return listPays;
     }
 
-    public ArrayList getPaysListName() {
+    public ArrayList getPaysData() {
         ArrayList<Pays> listPaysResult = new ArrayList();
         NodeList listPays = this.getPaysList();
 //        for (int i = 0; i < listPays.getLength(); ++i) {
@@ -53,27 +53,7 @@ public class PaysController extends ClassController {
     @Override
     public String toString() {
         NodeList listPays = this.getPaysList();
-        /*
-         StringBuilder result = new StringBuilder();
-         for (int i = 0; i < listPays.getLength(); ++i) {
-         Element pays = (Element) listPays.item(i);
-         String paysName = pays.getAttribute("name");
-         result.append(paysName);
-         }
-         return result.toString();
-         */
-//        StringBuilder result = new StringBuilder();
-//        for (int i = 0; i < listPays.getLength(); ++i) {
-//            Element pays = (Element) listPays.item(i);
-//            NodeList namelist = pays.getElementsByTagName("name");
-//            for (int k = 0; k < namelist.getLength(); ++k) {
-//                Element name = (Element) namelist.item(k);
-//                String nameText = name.getFirstChild().getNodeValue();
-//                result.append(nameText);
-//            }
-//        }
-//        return result.toString();
-        return this.getPaysListName().toString();
+        return this.getPaysData().toString();
     }
 
 }
