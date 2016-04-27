@@ -3,37 +3,38 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package guess_county;
+package modelsAndMain;
 
 /**
  *
  * @author Adrien
  */
-public class OceanMer {
-    private int idOceanMer;
+public class LangueOfficielle {
+    private int idLangue;
     private String nom;
 
-    public OceanMer(int idOceanMer, String nom) {
-        this.idOceanMer = idOceanMer;
+    public LangueOfficielle() {
+    }
+
+    public LangueOfficielle(int idLangue, String nom) {
+        this.idLangue = idLangue;
         this.nom = nom;
     }
 
-    public OceanMer() {
-    }
-
+    
     
     /**
-     * @return the idOceanMer
+     * @return the idLangue
      */
-    public int getIdOceanMer() {
-        return idOceanMer;
+    public int getIdLangue() {
+        return idLangue;
     }
 
     /**
-     * @param idOceanMer the idOceanMer to set
+     * @param idLangue the idLangue to set
      */
-    public void setIdOceanMer(int idOceanMer) {
-        this.idOceanMer = idOceanMer;
+    public void setIdLangue(int idLangue) {
+        this.idLangue = idLangue;
     }
 
     /**

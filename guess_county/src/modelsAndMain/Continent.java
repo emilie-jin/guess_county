@@ -3,38 +3,38 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package guess_county;
+package modelsAndMain;
 
 /**
  *
  * @author Adrien
  */
-public class LangueOfficielle {
-    private int idLangue;
+public class Continent {
+    private int idContinent;
     private String nom;
 
-    public LangueOfficielle() {
+    public Continent() {
     }
 
-    public LangueOfficielle(int idLangue, String nom) {
-        this.idLangue = idLangue;
+    public Continent(int idContinent, String nom) {
+        this.idContinent = idContinent;
         this.nom = nom;
     }
 
     
     
     /**
-     * @return the idLangue
+     * @return the idContinent
      */
-    public int getIdLangue() {
-        return idLangue;
+    public int getIdContinent() {
+        return idContinent;
     }
 
     /**
-     * @param idLangue the idLangue to set
+     * @param idContinent the idContinent to set
      */
-    public void setIdLangue(int idLangue) {
-        this.idLangue = idLangue;
+    public void setIdContinent(int idContinent) {
+        this.idContinent = idContinent;
     }
 
     /**

@@ -5,7 +5,7 @@
  */
 package score;
 
-import guess_county.Pays;
+import modelsAndMain.Pays;
 import java.util.HashMap;
 import java.util.Map;
 

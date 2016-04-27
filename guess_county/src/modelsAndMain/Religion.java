@@ -3,36 +3,37 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package guess_county;
+package modelsAndMain;
 
 /**
  *
  * @author Adrien
  */
-public class Politique {
-    private int idPolitique;
+public class Religion {
+    
+    private int idReligion;
     private String nom;
 
-    public Politique(int idPolitique, String nom) {
-        this.idPolitique = idPolitique;
+    public Religion(int idReligion, String nom) {
+        this.idReligion = idReligion;
         this.nom = nom;
     }
 
-    public Politique() {
+    public Religion() {
     }
 
     /**
-     * @return the idPolitique
+     * @return the idReligion
      */
-    public int getIdPolitique() {
-        return idPolitique;
+    public int getIdReligion() {
+        return idReligion;
     }
 
     /**
-     * @param idPolitique the idPolitique to set
+     * @param idReligion the idReligion to set
      */
-    public void setIdPolitique(int idPolitique) {
-        this.idPolitique = idPolitique;
+    public void setIdReligion(int idReligion) {
+        this.idReligion = idReligion;
     }
 
     /**
@@ -48,4 +49,5 @@ public class Politique {
     public void setNom(String nom) {
         this.nom = nom;
     }
+
 }

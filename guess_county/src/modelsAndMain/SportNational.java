@@ -3,37 +3,38 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package guess_county;
+package modelsAndMain;
 
 /**
  *
  * @author Adrien
  */
-public class Religion {
-    
-    private int idReligion;
+public class SportNational {
+
+    private int idSport;
     private String nom;
 
-    public Religion(int idReligion, String nom) {
-        this.idReligion = idReligion;
-        this.nom = nom;
+    public SportNational() {
+
     }
 
-    public Religion() {
-    }
-
-    /**
-     * @return the idReligion
-     */
-    public int getIdReligion() {
-        return idReligion;
+    public SportNational(int initialId, String initialName) {
+        this.idSport = initialId;
+        this.nom = initialName;
     }
 
     /**
-     * @param idReligion the idReligion to set
+     * @return the idSport
      */
-    public void setIdReligion(int idReligion) {
-        this.idReligion = idReligion;
+    public int getIdSport() {
+        return idSport;
+    }
+
+    /**
+     * @param idSport the idSport to set
+     */
+    public void setIdSport(int idSport) {
+        this.idSport = idSport;
     }
 
     /**
@@ -49,5 +50,4 @@ public class Religion {
     public void setNom(String nom) {
         this.nom = nom;
     }
-
 }

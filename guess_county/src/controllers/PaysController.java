@@ -1,6 +1,6 @@
 package controllers;
 
-import guess_county.Pays;
+import modelsAndMain.Pays;
 import java.util.ArrayList;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
