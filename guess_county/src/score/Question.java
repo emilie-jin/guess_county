@@ -5,22 +5,28 @@
  */
 package score;
 
-import guess_county.Pays;
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  *
  * @author yuzhujin
  */
 public class Question {
-    private final Map<String,Integer> questionDegre;
+    private int questionDegre;
 
     public Question() {
-        this.questionDegre = new HashMap<>();
+        this.questionDegre = 0;
     }
-    
-    public void addQuestion(String q,int degre){
-        this.questionDegre.put(q, degre);
+
+    /**
+     * @return the questionDegre
+     */
+    public int getQuestionDegre() {
+        return questionDegre;
+    }
+
+    /**
+     * @param questionDegre the questionDegre to set
+     */
+    public void setQuestionDegre(int questionDegre) {
+        this.questionDegre = questionDegre;
     }
 }
