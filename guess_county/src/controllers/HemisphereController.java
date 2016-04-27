@@ -9,6 +9,6 @@ package controllers;
  *
  * @author yuzhujin
  */
-public class HemesphereController extends ClassController{
+public class HemisphereController extends ClassController{
     
 }

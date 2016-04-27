@@ -5,6 +5,11 @@
  */
 package guess_county;
 
+import controllers.PaysController;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  *
  * @author yuzhujin
@@ -15,7 +20,20 @@ public class Guess_county {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        Map<Pays,Integer> paysScore;
+        paysScore = new HashMap<>();
+        
+//        paysScore.put(null, 0);
+       
+        PaysController pc = new PaysController();
+        ArrayList<Pays> listPays = pc.getPaysListName();
+        for (Pays pays: listPays) {
+           paysScore.put(pays, 0);
+        }
+        
+        final String BEGINNING_OF_THE_QUESTION = "Est-ce que votre pays ";
+        final String END_OF_THE_QUESTION = " ?";
     }
-    
+
 }
