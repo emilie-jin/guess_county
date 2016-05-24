@@ -57,43 +57,43 @@ public class Question {
                 this.setQuestion("Is your counrty located in the " + parameter + " hemlisphere?");
                 break;
             case "Continent":
-                this.setQuestionDegre(0);
+                this.setQuestionDegre(1);
                 this.setQuestion("Is the country we're looking for part of " + parameter + "?");
                 break;
             case "NumberOfLanguages":
-                this.setQuestionDegre(1);
+                this.setQuestionDegre(2);
                 this.setQuestion("Are more than " + parameter + " language(s) spoken in your country?");
                 break;
             case "AmountOfPeople":
-                this.setQuestionDegre(3);
+                this.setQuestionDegre(4);
                 this.setQuestion("Does your country host more than " + parameter + " people?");
                 break;
             case "Area":
-                this.setQuestionDegre(3);
+                this.setQuestionDegre(5);
                 this.setQuestion("Is the country you're thinking of bigger than " + parameter + " m²?");
                 break;
             case "Ocean/Sea":
-                this.setQuestionDegre(4);
+                this.setQuestionDegre(9);
                 this.setQuestion("Does the " + parameter + " bord the country searched?");
                 break;
-            case "Currently":
-                this.setQuestionDegre(9);
+            case "Currency":
+                this.setQuestionDegre(11);
                 this.setQuestion("Is the " + parameter + " the official currency of your country?");
                 break;
             case "OfficialLanguages":
-                this.setQuestionDegre(8);
+                this.setQuestionDegre(10);
                 this.setQuestion("Is " + parameter + " an official language in the country you're thinking of?");
                 break;
-            case "NationalSports":
-                this.setQuestionDegre(7);
+            case "NationalSport":
+                this.setQuestionDegre(8);
                 this.setQuestion("Is " + parameter + " the national sport?");
                 break;
             case "Religions":
-                this.setQuestionDegre(5);
+                this.setQuestionDegre(7);
                 this.setQuestion("Is " + parameter + " a major religion followed in the country you're thinking of?");
                 break;
             case "NumberOfBoundaries":
-                this.setQuestionDegre(2);
+                this.setQuestionDegre(3);
                 this.setQuestion("Does your country have more than " + parameter + " boundaries?");
                 break;
             case "PoliticalRegime":

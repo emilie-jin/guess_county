@@ -8,8 +8,9 @@ package modelsAndMain;
 import controllers.PaysController;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
+import java.util.Map.Entry;
+import java.util.Scanner;
 import score.Question;
 
 /**
@@ -19,7 +20,7 @@ import score.Question;
 public class Guess_country {
 
     public static Map<Pays, Integer> paysScore = new HashMap<>();
-    public static Map<Question, Integer> questionScore = new HashMap<>();
+    //public static Map<Question, Integer> questionScore = new HashMap<>();
     public static int currentQuestionDegree = 0;
 
     /**
@@ -30,9 +31,23 @@ public class Guess_country {
         //Attribution d'un score de 0 à tous les pays
         loadPaysData();
         //Mise à 0 du score de réponse des questions
-        loadQuestions();
+        Map<Question, Integer> questionScore = loadQuestions();
         //Sélection d'une question parmi celles qui ont un score discriminant faible
-        pickQuesion(currentQuestionDegree);
+        Question questionsRaised=pickQuesion(questionScore,currentQuestionDegree);
+    
+        Scanner sc = new Scanner(System.in); 
+        
+        System.out.println(questionsRaised.getQuestion());
+        System.out.println("--------------------Your answer--------------------");
+        System.out.println("1.No 2.Rather not 3.I don't know 4.Rather yes 5.Yes");
+        int score = sc.nextInt();
+        System.out.println("Your reponse: " + score);
+        
+        
+        questionScore.replace(questionsRaised, 0, score);
+        //System.out.println("map:"+ questionScore);
+//        System.out.println("map:"+ paysScore);
+        
     }
 
     //Récupération du nom de tous les pays
@@ -46,7 +61,8 @@ public class Guess_country {
     }
 
     //Mise à 0 du score de réponse des questions
-    private static void loadQuestions() {
+    private static Map<Question, Integer> loadQuestions() {
+        Map<Question, Integer> questionScore = new HashMap<>();
         questionScore.put(new Question("Hemisphere", "Northern"), 0);
         questionScore.put(new Question("Continent", "Europe"), 0);
         questionScore.put(new Question("NumberOfLanguages", "1"), 0);
@@ -59,14 +75,23 @@ public class Guess_country {
         questionScore.put(new Question("Religions", "Islam"), 0);
         questionScore.put(new Question("NumberOfBoundaries", "1"), 0);
         questionScore.put(new Question("PoliticalRegime", "Federal State"), 0);
+        
+        return questionScore;
     }
 
-    private static void pickQuesion(int currentQuestionDegree) {
-        Map<Question, Integer> subQuestionMap = new HashMap<>();
-        Iterator iterator = questionScore.entrySet().iterator();
-        while (iterator.hasNext()) {
-            Map<Question, Integer> question = (Map<Question, Integer>) iterator.next();
+    private static Question pickQuesion(Map<Question, Integer> questionScore,int currentQuestionDegree) {
+        //Sélection d’une question parmi celles qui ont un score discriminant faible
+        int lowestQuestionDegree = 12;
+        Question question = null;
+        for(Entry<Question, Integer> entry : questionScore.entrySet()) {
+                if(entry.getKey().getQuestionDegre()<lowestQuestionDegree){
+                    lowestQuestionDegree=entry.getKey().getQuestionDegre();
+                    question  = entry.getKey();
+                    
+                }    
+                
         }
+        return question;
     }
 
 }
