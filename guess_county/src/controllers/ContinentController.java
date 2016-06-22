@@ -5,10 +5,21 @@
  */
 package controllers;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author yuzhujin
  */
 public class ContinentController extends ClassController{
-    
+    public ArrayList<String> getListContinent(){
+        ArrayList<String> listContinent = new ArrayList<String>();
+        listContinent.add("Amerique du Nord");
+        listContinent.add("Asie");
+        listContinent.add("Oceanie");
+        listContinent.add("Afrique");
+        listContinent.add("Europe");
+        listContinent.add("Amerique du Sud");
+        return listContinent;
+    }
 }
