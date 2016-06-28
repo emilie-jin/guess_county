@@ -358,7 +358,7 @@ public class Guess_country {
     }
 
     private static void addScorePays(ArrayList<String> listPays, int score) {
-        listPays.stream().forEach((pays) -> {
+        for(String pays : listPays){
 
             for (Entry<Pays, Integer> entry : paysScore.entrySet()) {
                 if (entry.getKey().getNom().equals(pays)) {
@@ -367,7 +367,7 @@ public class Guess_country {
                 }
             }
 
-        });
+        };
 
     }
 
