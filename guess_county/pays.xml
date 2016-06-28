@@ -1,0 +1,933 @@
+<?xml version="1.0"?>
+<ROWSET>
+<ROW>
+<pays>Russie</pays>
+<Hemisphere>N</Hemisphere>
+<Continent></Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Russe</Langues_officielles>
+<Nombre_d_habitants>146267288</Nombre_d_habitants>
+<Superficie>17125187</Superficie>
+<OceanMer>Ocean Arctique</OceanMer>
+<Monnaie>Rouble(RUB )</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>14</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Canada</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Amerique du Nord</Continent>
+<Nombre_de_langages>2</Nombre_de_langages>
+<Langues_officielles>English;Francais</Langues_officielles>
+<Nombre_d_habitants>35702707</Nombre_d_habitants>
+<Superficie>9984670</Superficie>
+<OceanMer>Ocean Arctique;Atlantic Ocean;Ocean Pacifique</OceanMer>
+<Monnaie>Dollar canadien</Monnaie>
+<Sport_national>Hockey</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>2</Nombre_de_frontieres>
+<Politique>Republique Federale</Politique>
+</ROW>
+<ROW>
+<pays>Etats-Unis</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Amerique du Nord</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>English</Langues_officielles>
+<Nombre_d_habitants>320206000</Nombre_d_habitants>
+<Superficie>9629048</Superficie>
+<OceanMer>Atlantic Ocean;Ocean Pacifique</OceanMer>
+<Monnaie>Dollar americain</Monnaie>
+<Sport_national>Football americain</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>3</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Chine</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Asie</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Mandarin</Langues_officielles>
+<Nombre_d_habitants>1376049000</Nombre_d_habitants>
+<Superficie>9596961</Superficie>
+<OceanMer>Ocean Pacifique</OceanMer>
+<Monnaie>Yuan</Monnaie>
+<Sport_national>Tennis de table</Sport_national>
+<Religions></Religions>
+<Nombre_de_frontieres>19</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Bresil</pays>
+<Hemisphere>S</Hemisphere>
+<Continent>Amerique du Sud</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Portugais</Langues_officielles>
+<Nombre_d_habitants>206077898</Nombre_d_habitants>
+<Superficie>8514876</Superficie>
+<OceanMer>Atlantic Ocean;Ocean Pacifique</OceanMer>
+<Monnaie>Real</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>10</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Australie</pays>
+<Hemisphere>S</Hemisphere>
+<Continent>Oceanie</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>English</Langues_officielles>
+<Nombre_d_habitants>22751014</Nombre_d_habitants>
+<Superficie>7686850</Superficie>
+<OceanMer>Ocean Indien;Ocean Pacifique</OceanMer>
+<Monnaie>Dollar australien (AUD​)</Monnaie>
+<Sport_national>Football australien</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>0</Nombre_de_frontieres>
+<Politique>Republique Federale</Politique>
+</ROW>
+<ROW>
+<pays>Inde</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Asie</Continent>
+<Nombre_de_langages>23</Nombre_de_langages>
+<Langues_officielles>Hindi;English</Langues_officielles>
+<Nombre_d_habitants>1277803914</Nombre_d_habitants>
+<Superficie>3287263</Superficie>
+<OceanMer>Ocean Indien</OceanMer>
+<Monnaie>Roupie Indienne(INR )</Monnaie>
+<Sport_national>Cricket</Sport_national>
+<Religions>Indouisme</Religions>
+<Nombre_de_frontieres>6</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Argentine</pays>
+<Hemisphere>S</Hemisphere>
+<Continent>Amerique du Sud</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Espagnol</Langues_officielles>
+<Nombre_d_habitants>43431886</Nombre_d_habitants>
+<Superficie>2791810</Superficie>
+<OceanMer>Atlantic Ocean</OceanMer>
+<Monnaie>Peso argentin (ARS​)</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>6</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Kazakhstan</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Asie</Continent>
+<Nombre_de_langages>2</Nombre_de_langages>
+<Langues_officielles>Kazakh;Russe</Langues_officielles>
+<Nombre_d_habitants>17948816</Nombre_d_habitants>
+<Superficie>2724900</Superficie>
+<OceanMer></OceanMer>
+<Monnaie>Tengue (KZT​)</Monnaie>
+<Sport_national>Cyclisme</Sport_national>
+<Religions>Islam;Christianisme</Religions>
+<Nombre_de_frontieres>4</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Algerie</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>3</Nombre_de_langages>
+<Langues_officielles>Arabe</Langues_officielles>
+<Nombre_d_habitants>40400000</Nombre_d_habitants>
+<Superficie>2381741</Superficie>
+<OceanMer>Mer Mediterranee</OceanMer>
+<Monnaie>Dinar algerien (DZD​)</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Islam</Religions>
+<Nombre_de_frontieres>7</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Congo</pays>
+<Hemisphere></Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>5</Nombre_de_langages>
+<Langues_officielles>Francais</Langues_officielles>
+<Nombre_d_habitants>85026000</Nombre_d_habitants>
+<Superficie>2345409</Superficie>
+<OceanMer></OceanMer>
+<Monnaie>Franc congolais(CDF);US Dollar</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions></Religions>
+<Nombre_de_frontieres>9</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Groenland</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Europe</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Groenlandais</Langues_officielles>
+<Nombre_d_habitants>56282</Nombre_d_habitants>
+<Superficie>2166086</Superficie>
+<OceanMer>Arctique</OceanMer>
+<Monnaie>Couronne danoise</Monnaie>
+<Sport_national>Handball</Sport_national>
+<Religions></Religions>
+<Nombre_de_frontieres>0</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Arabie saoudite</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Asie</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Arabe</Langues_officielles>
+<Nombre_d_habitants>30770375</Nombre_d_habitants>
+<Superficie>2149690</Superficie>
+<OceanMer>Mer Rouge;Ocean Indien</OceanMer>
+<Monnaie>Riyal saoudien</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Islam</Religions>
+<Nombre_de_frontieres>5</Nombre_de_frontieres>
+<Politique>Monarchie</Politique>
+</ROW>
+<ROW>
+<pays>Mexique</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Amerique du Nord</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Espagnol</Langues_officielles>
+<Nombre_d_habitants>119713203</Nombre_d_habitants>
+<Superficie>1964375</Superficie>
+<OceanMer>Atlantic Ocean;Ocean Pacifique</OceanMer>
+<Monnaie>Peso</Monnaie>
+<Sport_national>Charreria</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>3</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Indonesie</pays>
+<Hemisphere>N</Hemisphere>
+<Continent></Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Indonesien</Langues_officielles>
+<Nombre_d_habitants>252164800</Nombre_d_habitants>
+<Superficie>1904569</Superficie>
+<OceanMer>Ocean Indien;Atlantic Ocean</OceanMer>
+<Monnaie>Roupie</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Islam;Christianisme;Indouisme;Bouddhisme;Confucianisme</Religions>
+<Nombre_de_frontieres>3</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Soudan</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>2</Nombre_de_langages>
+<Langues_officielles>Arabe</Langues_officielles>
+<Nombre_d_habitants>35482233</Nombre_d_habitants>
+<Superficie>1886068</Superficie>
+<OceanMer>Mer Rouge</OceanMer>
+<Monnaie>Livre saoudienne</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Islam</Religions>
+<Nombre_de_frontieres>7</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Libye</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Asie</Continent>
+<Nombre_de_langages>2</Nombre_de_langages>
+<Langues_officielles>Arabe;Tamazight</Langues_officielles>
+<Nombre_d_habitants>6244174</Nombre_d_habitants>
+<Superficie>1759540</Superficie>
+<OceanMer>Mer Mediterranee</OceanMer>
+<Monnaie>Dinar</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Islam</Religions>
+<Nombre_de_frontieres>6</Nombre_de_frontieres>
+<Politique>Republique Parlementaire</Politique>
+</ROW>
+<ROW>
+<pays>Iran</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Asie</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Persan</Langues_officielles>
+<Nombre_d_habitants>80096604</Nombre_d_habitants>
+<Superficie>1648195</Superficie>
+<OceanMer>Mer Caspienne;Golfe Persique;Golfe d Oman</OceanMer>
+<Monnaie>Rial</Monnaie>
+<Sport_national>Varzesh-e </Sport_national>
+<Religions>Islam</Religions>
+<Nombre_de_frontieres>7</Nombre_de_frontieres>
+<Politique>Republique Islamique</Politique>
+</ROW>
+<ROW>
+<pays>Mongolie</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Asie</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Mongol</Langues_officielles>
+<Nombre_d_habitants>2754685</Nombre_d_habitants>
+<Superficie>1564116</Superficie>
+<OceanMer></OceanMer>
+<Monnaie>Tugrik</Monnaie>
+<Sport_national>Lutte mongole</Sport_national>
+<Religions>Bouddhisme</Religions>
+<Nombre_de_frontieres>2</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Perou</pays>
+<Hemisphere>S</Hemisphere>
+<Continent>Amerique du Sud</Continent>
+<Nombre_de_langages>3</Nombre_de_langages>
+<Langues_officielles>Espagnol</Langues_officielles>
+<Nombre_d_habitants>30380000</Nombre_d_habitants>
+<Superficie>1285315</Superficie>
+<OceanMer>Ocean Pacifique</OceanMer>
+<Monnaie>Nuevo sol</Monnaie>
+<Sport_national>Paleta Frontón</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>5</Nombre_de_frontieres>
+<Politique>Republique Presidentielle</Politique>
+</ROW>
+<ROW>
+<pays>Tchad</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>2</Nombre_de_langages>
+<Langues_officielles>Francais</Langues_officielles>
+<Nombre_d_habitants>11631456</Nombre_d_habitants>
+<Superficie>1284000</Superficie>
+<OceanMer></OceanMer>
+<Monnaie>Franc</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Islam;Christianisme</Religions>
+<Nombre_de_frontieres>6</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Niger</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Francais</Langues_officielles>
+<Nombre_d_habitants>19899000</Nombre_d_habitants>
+<Superficie>1267000</Superficie>
+<OceanMer></OceanMer>
+<Monnaie>Franc</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Islam</Religions>
+<Nombre_de_frontieres>7</Nombre_de_frontieres>
+<Politique>Republique Presidentielle</Politique>
+</ROW>
+<ROW>
+<pays>Angola</pays>
+<Hemisphere>S</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>2</Nombre_de_langages>
+<Langues_officielles>Portugais</Langues_officielles>
+<Nombre_d_habitants>24383301</Nombre_d_habitants>
+<Superficie>1246700</Superficie>
+<OceanMer>Atlantic Ocean</OceanMer>
+<Monnaie>Kwanza</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>4</Nombre_de_frontieres>
+<Politique>Republique Presidentielle</Politique>
+</ROW>
+<ROW>
+<pays>Mali</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Francais</Langues_officielles>
+<Nombre_d_habitants>16174580</Nombre_d_habitants>
+<Superficie>1240192</Superficie>
+<OceanMer></OceanMer>
+<Monnaie>Franc</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Islam</Religions>
+<Nombre_de_frontieres>7</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Afrique du Sud</pays>
+<Hemisphere>S</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>11</Nombre_de_langages>
+<Langues_officielles>English</Langues_officielles>
+<Nombre_d_habitants>51770560</Nombre_d_habitants>
+<Superficie>1219912</Superficie>
+<OceanMer>Antarctique</OceanMer>
+<Monnaie>Rand</Monnaie>
+<Sport_national>Rugby</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>4</Nombre_de_frontieres>
+<Politique>Republique Constitutionnelle Parlementaire Unitaire</Politique>
+</ROW>
+<ROW>
+<pays>Colombie</pays>
+<Hemisphere></Hemisphere>
+<Continent>Amerique du Sud</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Espagnol</Langues_officielles>
+<Nombre_d_habitants>48484588</Nombre_d_habitants>
+<Superficie>1141748</Superficie>
+<OceanMer>Mer des caraibe;Ocean Pacifique</OceanMer>
+<Monnaie>Peso</Monnaie>
+<Sport_national>Tejo</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>5</Nombre_de_frontieres>
+<Politique>Republique Presidentielle</Politique>
+</ROW>
+<ROW>
+<pays>Ethiopie</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Amharique</Langues_officielles>
+<Nombre_d_habitants>90873739</Nombre_d_habitants>
+<Superficie>1127127</Superficie>
+<OceanMer></OceanMer>
+<Monnaie>Birr</Monnaie>
+<Sport_national>Athletisme</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>5</Nombre_de_frontieres>
+<Politique>Republique Federale</Politique>
+</ROW>
+<ROW>
+<pays>Bolivie</pays>
+<Hemisphere>S</Hemisphere>
+<Continent>Amerique du Sud</Continent>
+<Nombre_de_langages>37</Nombre_de_langages>
+<Langues_officielles>Espagnol</Langues_officielles>
+<Nombre_d_habitants>10461053</Nombre_d_habitants>
+<Superficie>1098581</Superficie>
+<OceanMer></OceanMer>
+<Monnaie>Boliviano</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>4</Nombre_de_frontieres>
+<Politique>Republique Presidentielle</Politique>
+</ROW>
+<ROW>
+<pays>Mauritanie</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>3</Nombre_de_langages>
+<Langues_officielles>Arabe</Langues_officielles>
+<Nombre_d_habitants>3516806</Nombre_d_habitants>
+<Superficie>1030700</Superficie>
+<OceanMer>Atlantic Ocean</OceanMer>
+<Monnaie>Ouguiya</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Islam</Religions>
+<Nombre_de_frontieres>4</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Egypte</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Arabe</Langues_officielles>
+<Nombre_d_habitants>90047275</Nombre_d_habitants>
+<Superficie>1001450</Superficie>
+<OceanMer>Mer Mediterranee;Mer Rouge</OceanMer>
+<Monnaie>Livre egyptienne</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Islam;Christianisme</Religions>
+<Nombre_de_frontieres>4</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Tanzanie</pays>
+<Hemisphere>S</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>2</Nombre_de_langages>
+<Langues_officielles></Langues_officielles>
+<Nombre_d_habitants>49250000</Nombre_d_habitants>
+<Superficie>945087</Superficie>
+<OceanMer>Ocean Indien</OceanMer>
+<Monnaie>Shilling tanzanien</Monnaie>
+<Sport_national>Athletisme</Sport_national>
+<Religions>Islam;Christianisme;Animisme</Religions>
+<Nombre_de_frontieres>7</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Nigeria</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>5</Nombre_de_langages>
+<Langues_officielles>English</Langues_officielles>
+<Nombre_d_habitants>181562056</Nombre_d_habitants>
+<Superficie>923768</Superficie>
+<OceanMer>Atlantic Ocean</OceanMer>
+<Monnaie>Naira</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme;Islam</Religions>
+<Nombre_de_frontieres>4</Nombre_de_frontieres>
+<Politique>Republique Federale</Politique>
+</ROW>
+<ROW>
+<pays>Venezuela</pays>
+<Hemisphere>N</Hemisphere>
+<Continent></Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Espagnol</Langues_officielles>
+<Nombre_d_habitants>30620404</Nombre_d_habitants>
+<Superficie>916445</Superficie>
+<OceanMer>Atlantic Ocean</OceanMer>
+<Monnaie>Bolívar venezuelien</Monnaie>
+<Sport_national>Baseball</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>3</Nombre_de_frontieres>
+<Politique>Republique Federale Presidentielle</Politique>
+</ROW>
+<ROW>
+<pays>Namibie</pays>
+<Hemisphere>S</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>English</Langues_officielles>
+<Nombre_d_habitants>2113077</Nombre_d_habitants>
+<Superficie>825418</Superficie>
+<OceanMer>Atlantic Ocean</OceanMer>
+<Monnaie>Dollar namibien</Monnaie>
+<Sport_national>Rugby</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>4</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Mozambique</pays>
+<Hemisphere>S</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Portugais</Langues_officielles>
+<Nombre_d_habitants>25900000</Nombre_d_habitants>
+<Superficie>801590</Superficie>
+<OceanMer>Ocean Indien</OceanMer>
+<Monnaie>Metical</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme;Islam</Religions>
+<Nombre_de_frontieres>5</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Pakistan</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Asie</Continent>
+<Nombre_de_langages>2</Nombre_de_langages>
+<Langues_officielles>Ourdou;English</Langues_officielles>
+<Nombre_d_habitants>188020000</Nombre_d_habitants>
+<Superficie>7960900</Superficie>
+<OceanMer>Ocean Indien</OceanMer>
+<Monnaie>Roupie pakistanaise</Monnaie>
+<Sport_national>Hockey sur gazon</Sport_national>
+<Religions>Islam;Indouisme;Christianisme</Religions>
+<Nombre_de_frontieres>4</Nombre_de_frontieres>
+<Politique>Republique Islamique</Politique>
+</ROW>
+<ROW>
+<pays>Turquie</pays>
+<Hemisphere>N</Hemisphere>
+<Continent></Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Turc</Langues_officielles>
+<Nombre_d_habitants>79414269</Nombre_d_habitants>
+<Superficie>783562</Superficie>
+<OceanMer>Mer Noire;Mer Mediterranee</OceanMer>
+<Monnaie>Livre turque</Monnaie>
+<Sport_national>Lutte turque</Sport_national>
+<Religions>Islam</Religions>
+<Nombre_de_frontieres>7</Nombre_de_frontieres>
+<Politique>Republique Parlementaire</Politique>
+</ROW>
+<ROW>
+<pays>Chili</pays>
+<Hemisphere>S</Hemisphere>
+<Continent>Amerique du Sud</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Espagnol</Langues_officielles>
+<Nombre_d_habitants>16634603</Nombre_d_habitants>
+<Superficie>756950</Superficie>
+<OceanMer>Ocean Pacifique</OceanMer>
+<Monnaie>Peso</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>3</Nombre_de_frontieres>
+<Politique>Republique Presidentielle</Politique>
+</ROW>
+<ROW>
+<pays>Zambie</pays>
+<Hemisphere>S</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>English</Langues_officielles>
+<Nombre_d_habitants>14540000</Nombre_d_habitants>
+<Superficie>752614</Superficie>
+<OceanMer></OceanMer>
+<Monnaie>Kwacha zambien</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>7</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Birmanie</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Asie</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Birman</Langues_officielles>
+<Nombre_d_habitants>51419420</Nombre_d_habitants>
+<Superficie>676578</Superficie>
+<OceanMer>Ocean Indien</OceanMer>
+<Monnaie>Kyat</Monnaie>
+<Sport_national>Boxe Birmane</Sport_national>
+<Religions>Bouddhisme;Christianisme;Islam</Religions>
+<Nombre_de_frontieres>6</Nombre_de_frontieres>
+<Politique>Republique Parlementaire</Politique>
+</ROW>
+<ROW>
+<pays>France </pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Europe</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Francais</Langues_officielles>
+<Nombre_d_habitants>67232000</Nombre_d_habitants>
+<Superficie>675000</Superficie>
+<OceanMer>Atlantic Ocean</OceanMer>
+<Monnaie>Euro</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>5</Nombre_de_frontieres>
+<Politique>Republique Constitutionnelle Unitaire Semi-Presidentielle</Politique>
+</ROW>
+<ROW>
+<pays>Afghanistan</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Asie</Continent>
+<Nombre_de_langages>2</Nombre_de_langages>
+<Langues_officielles>Persan dari;Pachto</Langues_officielles>
+<Nombre_d_habitants>32564342</Nombre_d_habitants>
+<Superficie>652864</Superficie>
+<OceanMer></OceanMer>
+<Monnaie>Afghani</Monnaie>
+<Sport_national>Bouzkachi</Sport_national>
+<Religions>Islam</Religions>
+<Nombre_de_frontieres>6</Nombre_de_frontieres>
+<Politique>Republique Islamique</Politique>
+</ROW>
+<ROW>
+<pays>Soudan du Sud</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>English</Langues_officielles>
+<Nombre_d_habitants>11562695</Nombre_d_habitants>
+<Superficie>619745</Superficie>
+<OceanMer></OceanMer>
+<Monnaie>Livre sud;soudanaise</Monnaie>
+<Sport_national>Basketball</Sport_national>
+<Religions>Christianisme;Animisme;Islam</Religions>
+<Nombre_de_frontieres>6</Nombre_de_frontieres>
+<Politique>Republique Federale</Politique>
+</ROW>
+<ROW>
+<pays>Somalie</pays>
+<Hemisphere></Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>2</Nombre_de_langages>
+<Langues_officielles>Somali;Arabe</Langues_officielles>
+<Nombre_d_habitants>12316895</Nombre_d_habitants>
+<Superficie>637657</Superficie>
+<OceanMer>Ocean Indien</OceanMer>
+<Monnaie>Shilling Somali;Dollar US</Monnaie>
+<Sport_national>Athletisme</Sport_national>
+<Religions>Islam</Religions>
+<Nombre_de_frontieres>3</Nombre_de_frontieres>
+<Politique>Republique Federale</Politique>
+</ROW>
+<ROW>
+<pays>Republique centrafricaine</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>2</Nombre_de_langages>
+<Langues_officielles>Francais;Sango</Langues_officielles>
+<Nombre_d_habitants>5166510</Nombre_d_habitants>
+<Superficie>622984</Superficie>
+<OceanMer></OceanMer>
+<Monnaie>Franc CFA</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme;Islam;Animisme</Religions>
+<Nombre_de_frontieres>6</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Ukraine</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Europe</Continent>
+<Nombre_de_langages>4</Nombre_de_langages>
+<Langues_officielles>Ukrainien</Langues_officielles>
+<Nombre_d_habitants>45426200</Nombre_d_habitants>
+<Superficie>603549</Superficie>
+<OceanMer>Mer Noire</OceanMer>
+<Monnaie>Hryvnia</Monnaie>
+<Sport_national>Boxe</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>7</Nombre_de_frontieres>
+<Politique>Republique Parlementaire</Politique>
+</ROW>
+<ROW>
+<pays>Madagascar</pays>
+<Hemisphere>S</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>2</Nombre_de_langages>
+<Langues_officielles>Malgache;Francais</Langues_officielles>
+<Nombre_d_habitants>23812681</Nombre_d_habitants>
+<Superficie>648051</Superficie>
+<OceanMer>Ocean Indien</OceanMer>
+<Monnaie>Ariary</Monnaie>
+<Sport_national>Petanque</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>0</Nombre_de_frontieres>
+<Politique>Republique Semi-Presidentielle</Politique>
+</ROW>
+<ROW>
+<pays>Kenya</pays>
+<Hemisphere></Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>2</Nombre_de_langages>
+<Langues_officielles>Swahilli;English</Langues_officielles>
+<Nombre_d_habitants>41800000</Nombre_d_habitants>
+<Superficie>580367</Superficie>
+<OceanMer>Ocean Indien</OceanMer>
+<Monnaie>Shilling kenyan</Monnaie>
+<Sport_national>Athletisme</Sport_national>
+<Religions>Christianisme;Islam</Religions>
+<Nombre_de_frontieres>5</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Yemen</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Afrique</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Arabe</Langues_officielles>
+<Nombre_d_habitants>26052966</Nombre_d_habitants>
+<Superficie>527968</Superficie>
+<OceanMer>Ocean Indien</OceanMer>
+<Monnaie>Rial yemenite</Monnaie>
+<Sport_national></Sport_national>
+<Religions>Islam</Religions>
+<Nombre_de_frontieres>2</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Angleterre</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Europe</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>English</Langues_officielles>
+<Nombre_d_habitants>55012456</Nombre_d_habitants>
+<Superficie>130395</Superficie>
+<OceanMer>Mer du Nord;La Manche;Mer Celtique;Mer Irlande</OceanMer>
+<Monnaie>Livre</Monnaie>
+<Sport_national>Cricket</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>1</Nombre_de_frontieres>
+<Politique>Monarchie Constitutionnelle</Politique>
+</ROW>
+<ROW>
+<pays>Italie</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Europe</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Italien</Langues_officielles>
+<Nombre_d_habitants>60795612</Nombre_d_habitants>
+<Superficie>301336</Superficie>
+<OceanMer>Mer Mediterranee</OceanMer>
+<Monnaie>Euro</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christanisme</Religions>
+<Nombre_de_frontieres>4</Nombre_de_frontieres>
+<Politique>République Parlementaire</Politique>
+</ROW>
+<ROW>
+<pays>Espagne</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Europe</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Espagnol</Langues_officielles>
+<Nombre_d_habitants>46439864</Nombre_d_habitants>
+<Superficie>505911</Superficie>
+<OceanMer>Mer Mediterranee;Atlantic Ocean</OceanMer>
+<Monnaie>Euro</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>2</Nombre_de_frontieres>
+<Politique>Monarchie Constitutionnelle</Politique>
+</ROW>
+<ROW>
+<pays>Grece</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Europe</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Grec</Langues_officielles>
+<Nombre_d_habitants>10815197</Nombre_d_habitants>
+<Superficie>131957</Superficie>
+<OceanMer>Mer Mediterranee</OceanMer>
+<Monnaie>Euro</Monnaie>
+<Sport_national>Basketball</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>4</Nombre_de_frontieres>
+<Politique>Republique Parlementaire</Politique>
+</ROW>
+<ROW>
+<pays>Suisse</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Europe</Continent>
+<Nombre_de_langages>3</Nombre_de_langages>
+<Langues_officielles>Allemand;Francais;English</Langues_officielles>
+<Nombre_d_habitants>8211681</Nombre_d_habitants>
+<Superficie>41285</Superficie>
+<OceanMer></OceanMer>
+<Monnaie>Franc Suisse</Monnaie>
+<Sport_national>Ski alpin</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>4</Nombre_de_frontieres>
+<Politique>Etat Federal</Politique>
+</ROW>
+<ROW>
+<pays>Allemagne</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Europe</Continent>
+<Nombre_de_langages>5</Nombre_de_langages>
+<Langues_officielles>Allemand</Langues_officielles>
+<Nombre_d_habitants>81459000</Nombre_d_habitants>
+<Superficie>357340</Superficie>
+<OceanMer>Mer du Nord</OceanMer>
+<Monnaie>Euro</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>8</Nombre_de_frontieres>
+<Politique>Regime Parlementaire</Politique>
+</ROW>
+<ROW>
+<pays>Pays Bas</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Europe</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Neerlandais</Langues_officielles>
+<Nombre_d_habitants>16902103</Nombre_d_habitants>
+<Superficie>41530</Superficie>
+<OceanMer>Mer du Nord</OceanMer>
+<Monnaie>Euro</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>2</Nombre_de_frontieres>
+<Politique>Monarchie Constitutionnelle</Politique>
+</ROW>
+<ROW>
+<pays>Pologne</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Europe</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Polonais</Langues_officielles>
+<Nombre_d_habitants>38005614</Nombre_d_habitants>
+<Superficie>312679</Superficie>
+<OceanMer>Mer du Nord</OceanMer>
+<Monnaie>Euro</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>7</Nombre_de_frontieres>
+<Politique>Republique Parlementaire</Politique>
+</ROW>
+<ROW>
+<pays>Macedoine</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Europe</Continent>
+<Nombre_de_langages>2</Nombre_de_langages>
+<Langues_officielles>Macedonien;Albanais</Langues_officielles>
+<Nombre_d_habitants>2082370</Nombre_d_habitants>
+<Superficie>25713</Superficie>
+<OceanMer>Mer Noire</OceanMer>
+<Monnaie>Euro</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>4</Nombre_de_frontieres>
+<Politique>Republique Parlementaire</Politique>
+</ROW>
+<ROW>
+<pays>Luxembourg</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Europe</Continent>
+<Nombre_de_langages>3</Nombre_de_langages>
+<Langues_officielles>Luxembourgeois;Allemand;Francais</Langues_officielles>
+<Nombre_d_habitants>562958</Nombre_d_habitants>
+<Superficie>2586</Superficie>
+<OceanMer></OceanMer>
+<Monnaie>Euro</Monnaie>
+<Sport_national>Cyclisme</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>3</Nombre_de_frontieres>
+<Politique>Monarchie Constitutionnelle Parlementaire Unitaire</Politique>
+</ROW>
+<ROW>
+<pays>Norvege</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Europe</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Norvegien</Langues_officielles>
+<Nombre_d_habitants>5205434</Nombre_d_habitants>
+<Superficie>385199</Superficie>
+<OceanMer>Atlantic Ocean</OceanMer>
+<Monnaie>Euro</Monnaie>
+<Sport_national>Ski nordique</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>3</Nombre_de_frontieres>
+<Politique>Monarchie Constitutionnelle</Politique>
+</ROW>
+<ROW>
+<pays>Croatie</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Europe</Continent>
+<Nombre_de_langages>1</Nombre_de_langages>
+<Langues_officielles>Croate</Langues_officielles>
+<Nombre_d_habitants>4225316</Nombre_d_habitants>
+<Superficie>31067</Superficie>
+<OceanMer>Mer Adriatique </OceanMer>
+<Monnaie>Kuna</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>6</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+<ROW>
+<pays>Portugal</pays>
+<Hemisphere>N</Hemisphere>
+<Continent>Europe</Continent>
+<Nombre_de_langages>3</Nombre_de_langages>
+<Langues_officielles>Portugais;Mirandais</Langues_officielles>
+<Nombre_d_habitants>10374822</Nombre_d_habitants>
+<Superficie>92358</Superficie>
+<OceanMer>Atlantic Ocean</OceanMer>
+<Monnaie>Euro</Monnaie>
+<Sport_national>Football</Sport_national>
+<Religions>Christianisme</Religions>
+<Nombre_de_frontieres>1</Nombre_de_frontieres>
+<Politique>Republique</Politique>
+</ROW>
+</ROWSET>
